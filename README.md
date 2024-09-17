@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gami Krutik Jagdishbhai</h1>
-<h3 align="left">Aspiring Java Developer || Dedicated to Learning and Growth in Java Development || Enthusiastic Computer Engineering Student 👨🏿‍🎓</h3>
+<h3 align="left">Aspiring MERN Stack Developer || Dedicated to Learning and Growth in MERN Stack Development || Enthusiastic Computer Engineering Student 👨🏿‍🎓</h3>
 
 
-- 🌱 I’m currently learning **Java,Spring Framework**
+- 🌱 I’m currently learning **MERN Stack**
 
 - Reach me **Krutikgami354@gmail.com**
 
