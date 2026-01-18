@@ -24,4 +24,8 @@ Hi 👋, I'm Gami Krutik Jagdishbhai<br>Aspiring MERN Stack Developer || Dedicat
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krutikgami&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## Company Account Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krutik02&show_icons=true&theme=tokyonight)
+
+
 
